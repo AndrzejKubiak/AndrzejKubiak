@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrzejKubiak
-- 👀 I’m researcher focused on biomechanics of stem cell niches.
+- 👀 I’m researcher focused on biomechanics of stem cells and synthetic biology 
 - 🌱 I’m currently learning python, R.
 - 💞️ I’m looking to collaborate on image analysis and stem cell research
 - 📫 How to reach me andrzej.jan.kubiak@gmail.com ak_086@usc.edu  
